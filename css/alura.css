@@ -1,0 +1,36 @@
+#container_pro{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(193, 177, 177);
+}
+
+#pok{
+    width: 600px;
+    height: 400px;
+}
+
+
+#text1{ 
+
+    margin: 5px;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+
+marquee{
+    background-color: rgba(240, 240, 240, 0.85);
+}
+#pizarra{
+    text-align: center;
+    margin: 45px;
+}
+
+#main-canvas{
+    background-color:rgba(240, 240, 240, 0.85);
+    width: 70%;
+    height: 80vh;
+    border: 5px solid rgb(17, 0, 253);
+    border-radius: 5%;
+
+    
+}
+
